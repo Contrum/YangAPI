@@ -60,4 +60,6 @@ _¿How to create my private KnockbackProfiler from my private Spigot?_
     ![img/img_4.png](img/img_4.png)
 
 **Player Methods**
+
+- _image_
     ![img/img_5.png](img/img_5.png)
